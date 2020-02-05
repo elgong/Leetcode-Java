@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffae7281-9081-4e83-9bc8-b50e81689ef4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DBConnection/Config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBConnection/DBConnection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBConnection/Format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBConnection/Query.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DBConnection/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Drawing" beforeDir="false" afterPath="$PROJECT_DIR$/../../Drawing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/algorithm/sort/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/algorithm/sort/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/algorithm/sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/leetcode/ImplQueueByStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/leetcode/ImplStackByQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/reflect/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/reflect/ReflectTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccf-BDCI-2019-SIEMENS" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccf-BDCI-2019-SIEMENS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ccf/未命名1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccf/未命名1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elgong.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/../../elgong.github.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pyexcel/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pyexcel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pyexcel/Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pyexcel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pyexcel/output/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/output/example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pyexcel/pyexcel/Config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pyexcel/pyexcel/ExcelExport.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/pyexcel/ExcelExport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pyexcel/pyexcel/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/pyexcel/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/Tree-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/Tree-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/Tree-01.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/Tree-01.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/code.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/code.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/warn-code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/warn-code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/xref-code.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/xref-code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/random/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/build/random/random.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/code.spec" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/code.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/dist/RanDom.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/dist/RanDom/code.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/dist/RanDom/名单.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../随机点名/名单.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1XKPc7Iw0pywSwzX4wmLSAOtRYJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.elgong.algorithm.sort.InsertSort" />
+      <module name="Leetcode-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.elgong.algorithm.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.elgong.binaryTree.Test" />
+      <module name="Leetcode-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.elgong.binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.InsertSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffae7281-9081-4e83-9bc8-b50e81689ef4" name="Default Changelist" comment="" />
+      <created>1580791888650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580791888650</updated>
+      <workItem from="1580791890126" duration="12441000" />
+      <workItem from="1580873971091" duration="7255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1580791903206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1580791903206" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1580802710741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580802710741" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580792862283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580792862283" />
+    <state width="1493" height="197" key="GridCell.Tab.0.bottom" timestamp="1580887309781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
+    <state width="1493" height="197" key="GridCell.Tab.0.center" timestamp="1580887309781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
+    <state width="1493" height="197" key="GridCell.Tab.0.left" timestamp="1580887309781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
+    <state width="1493" height="197" key="GridCell.Tab.0.right" timestamp="1580887309781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1580885984948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580885984948" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/top/elgong/binaryTree/impl/Traversal.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
