@@ -9,6 +9,7 @@ public class Test {
 		
 		
 		Map map = new TreeMap<String, Integer>();
+		String s = null;
 
 	}
 

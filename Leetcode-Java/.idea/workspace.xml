@@ -2,63 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffae7281-9081-4e83-9bc8-b50e81689ef4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../DBConnection/Config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DBConnection/DBConnection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DBConnection/Format.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DBConnection/Query.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DBConnection/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Drawing" beforeDir="false" afterPath="$PROJECT_DIR$/../../Drawing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/algorithm/sort/InsertSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/algorithm/sort/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/algorithm/sort/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/leetcode/ImplQueueByStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/leetcode/ImplStackByQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/reflect/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Leetcode-Java/src/top/elgong/reflect/ReflectTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ccf-BDCI-2019-SIEMENS" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccf-BDCI-2019-SIEMENS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ccf/未命名1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../ccf/未命名1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../elgong.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/../../elgong.github.io" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pyexcel/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pyexcel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pyexcel/Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/Example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pyexcel/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pyexcel/output/example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/output/example.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pyexcel/pyexcel/Config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pyexcel/pyexcel/ExcelExport.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/pyexcel/ExcelExport.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pyexcel/pyexcel/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pyexcel/pyexcel/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/PKG-00.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/PKG-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/Tree-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/Tree-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/Tree-01.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/Tree-01.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/code.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/code.exe.manifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/warn-code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/warn-code.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/code/xref-code.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/build/code/xref-code.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/random/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/build/random/random.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/code.spec" beforeDir="false" afterPath="$PROJECT_DIR$/../../随机点名/code.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/dist/RanDom.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/dist/RanDom/code.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/dist/RanDom/名单.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../随机点名/名单.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/META-INF/Leetcode-Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/impl/Traversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/impl/Traversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/MyLinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/myLinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/leetcode/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/leetcode/Test.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/top/elgong/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/top/elgong/leetcode/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/top/elgong/leetcode/MatchString28.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" selection-start-line="13" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="111" column="8" lean-forward="true" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/io/BufferedReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8925">
+              <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5575">
+              <caret line="252" column="18" selection-start-line="252" selection-start-column="18" selection-end-line="252" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/AbstractStringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19800">
+              <caret line="824" column="10" selection-start-line="824" selection-start-column="10" selection-end-line="824" selection-end-column="10" />
+              <folding>
+                <element signature="e#1327#1328#0" expanded="true" />
+                <element signature="e#1369#1370#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11200">
+              <caret line="492" column="4" selection-start-line="492" selection-start-column="4" selection-end-line="494" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/top/elgong/binaryTree/ReadMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/top/elgong/binaryTree/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,12 +130,81 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>copy</find>
+      <find>substring</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/top/elgong/test.java" />
+        <option value="$PROJECT_DIR$/src/top/elgong/leetcode/Test.java" />
+        <option value="$PROJECT_DIR$/src/top/elgong/leetcode/MatchString.java" />
+        <option value="$PROJECT_DIR$/src/top/elgong/leetcode/MatchString28.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectId" id="1XKPc7Iw0pywSwzX4wmLSAOtRYJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode-Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="elgong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="elgong" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -84,11 +215,25 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
     <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.elgong.algorithm.sort.InsertSort" />
       <module name="Leetcode-Java" />
@@ -115,8 +260,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.elgong.test" />
+      <module name="Leetcode-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.elgong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.InsertSort" />
       </list>
@@ -134,8 +293,51 @@
       <updated>1580791888650</updated>
       <workItem from="1580791890126" duration="12441000" />
       <workItem from="1580873971091" duration="7255000" />
+      <workItem from="1580889648225" duration="3967000" />
+      <workItem from="1580957493429" duration="1607000" />
+      <workItem from="1580996987100" duration="5930000" />
+      <workItem from="1581224610658" duration="13000" />
+      <workItem from="1581517688460" duration="2160000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8103000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23006994" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19263457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -169,6 +371,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1580957494079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580957494079" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1580885984948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -180,9 +386,97 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/top/elgong/binaryTree/impl/Traversal.java</url>
           <line>26</line>
+          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/top/elgong/binaryTree/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8925">
+          <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5575">
+          <caret line="252" column="18" selection-start-line="252" selection-start-column="18" selection-end-line="252" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19800">
+          <caret line="824" column="10" selection-start-line="824" selection-start-column="10" selection-end-line="824" selection-end-column="10" />
+          <folding>
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11200">
+          <caret line="492" column="4" selection-start-line="492" selection-start-column="4" selection-end-line="494" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/elgong/binaryTree/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/elgong/binaryTree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/elgong/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="111" column="8" lean-forward="true" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/elgong/leetcode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top/elgong/leetcode/MatchString28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
