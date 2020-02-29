@@ -24,5 +24,7 @@ public class test{
             System.out.println(arr);
             Vector<Integer> vc = new Vector<Integer>();
 
+            new Scanner(System.in);
+
         }
 }
