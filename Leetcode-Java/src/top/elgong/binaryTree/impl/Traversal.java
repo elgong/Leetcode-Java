@@ -7,6 +7,10 @@ import java.util.*;
 
 public class Traversal implements ITraversal {
 
+    /**
+     *  前序遍历------递归版本
+     * @param root
+     */
     @Override
     public void preOrderByRecursion(Node root) {
 
@@ -21,6 +25,10 @@ public class Traversal implements ITraversal {
         }
     }
 
+    /**
+     *  前序遍历迭代版本
+     * @param root
+     */
     @Override
     public void preOrderByIteration(Node root) {
         if(root == null){
@@ -32,15 +40,30 @@ public class Traversal implements ITraversal {
         // 模拟堆栈
         while(root != null || !stack.isEmpty()){
 
+            // 沿着左节点遍历, 直到root为空
             while(root != null){
                 System.out.print(root.value + " ");
                 stack.push(root);
+                /**
+                 *  // 判断是否左叶子,需要从左叶子的父节点开始下手，不然不知道左右。。。
+                 *  //  left NOT NULL，并且left 没有子节点，那么就是左叶子
+                 * */
+//                if(root.left !=null && root.left.left==null && root.left.right==null){
+//                    System.out.println("左叶子 " + root.left.value);
+//                }
+//
+//                if(root.right != null && root.right.left==null && root.right.right==null){
+//                    System.out.println("右叶子 " + root.right.value);
+//                }
+
                 root = root.left;
             }
 
             if(!stack.isEmpty()){
-                root = stack.pop();
-                root = root.right;
+                // 因为root节点已经是空值了， 所以弹出root的父节点，找到
+                // 父节点的右节点，继沿着左边遍历
+                root = stack.pop().right;
+
             }
 
         }

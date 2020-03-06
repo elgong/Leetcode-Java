@@ -1,30 +1,49 @@
 package top.elgong;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.lang.reflect.Array;
-import java.util.*;
-import java.util.regex.Pattern;
 
-public class test{
+import java.util.concurrent.*;
+
+public class test {
+    public static void main(String[] args) throws Exception  {
+//1.创建并启动线程
+
+        Executors
+        Callable<Integer> call1 = new CallableImpl(0, 50000);
+        Callable<Integer> call2 = new CallableImpl(50001, 100000);
 
 
+        FutureTask<Integer> f1 = new FutureTask<>(call1);
+        FutureTask<Integer> f2 = new FutureTask<>(call2);
 
-        public static void main(String[ ] args ){
-            //int[ ] arr = {1,3,4,5,2,4,3};
 
-            ArrayList<Integer> arr = new ArrayList<Integer>();
+        new Thread(f1).start();
+        new Thread(f2).start();
+//2.获取每一个线程的结果
+        int ret1 = f1.get();
+        int ret2 = f2.get();
+        int ret= ret1+ret2;
+        System.out.println(ret);
+    }
+}
+class CallableImpl implements Callable<Integer>{
 
-            arr.add(5);
-            arr.add(2);
-            arr.remove(Integer.valueOf(1));
-            arr.remove(1);
-            System.out.println(arr);
-            Vector<Integer> vc = new Vector<Integer>();
 
-            new Scanner(System.in);
+    private int min;
+    private int max;
 
+
+    public CallableImpl(int min, int max) {
+        this.min = min;
+        this.max = max;
+    }
+
+
+    @Override
+    public Integer call() throws Exception {
+        int sum = 0;
+        for (int i = min; i <= max; i++) {
+            sum+=i;
         }
+        return sum;
+    }
 }
