@@ -2,12 +2,14 @@ package top.elgong;
 
 
 import java.util.concurrent.*;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.locks.Lock;
 
 public class test {
     public static void main(String[] args) throws Exception  {
 //1.创建并启动线程
 
-        Executors
+        System.out.println(Runtime.getRuntime().availableProcessors());
         Callable<Integer> call1 = new CallableImpl(0, 50000);
         Callable<Integer> call2 = new CallableImpl(50001, 100000);
 
@@ -16,13 +18,6 @@ public class test {
         FutureTask<Integer> f2 = new FutureTask<>(call2);
 
 
-        new Thread(f1).start();
-        new Thread(f2).start();
-//2.获取每一个线程的结果
-        int ret1 = f1.get();
-        int ret2 = f2.get();
-        int ret= ret1+ret2;
-        System.out.println(ret);
     }
 }
 class CallableImpl implements Callable<Integer>{
@@ -44,6 +39,9 @@ class CallableImpl implements Callable<Integer>{
         for (int i = min; i <= max; i++) {
             sum+=i;
         }
-        return sum;
+
+        while(true){
+            System.out.println(Thread.currentThread().getName());
+        }
     }
 }
