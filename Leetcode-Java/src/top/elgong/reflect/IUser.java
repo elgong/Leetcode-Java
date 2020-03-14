@@ -5,4 +5,5 @@ package top.elgong.reflect;
  */
 public interface IUser {
     void printLog();
+    
 }

@@ -3,6 +3,7 @@ package top.elgong.algorithm.sort;
 /**
  * 
  *  快速排序算法
+ *  leetcode-912 已测试通过
  */
 import java.lang.reflect.Array;
 import java.util.Arrays;
@@ -25,33 +26,28 @@ public class QuickSort {
 	public static void quickSort(int []arr, int left, int right) {
 		
 		// 递归出口
-		if(left >= right) {
-			return;
+		if(left >= right){
+			return ;
 		}
-		
-		// 基准值坐标， 一般子组的最左侧
-		int base = left;
-		
-		while(left < right) {
-			
-			// 基准值在左侧，必须先右侧遍历
-			while((left < right) && arr[right] >= arr[base]) {
-				right--;
-			}
-			
-			while((left <right) && arr[left] <= arr[base]) {
-				left++;
-			}
-			// 交换 左右
+
+		// 记录位置
+		int BASE = left;
+		int RIGHT = right;
+
+		while(left < right){
+			/////////////// 先右侧
+			while(left < right && arr[right] >= arr[BASE]) right--;
+			while(left < right && arr[left] <= arr[BASE]) left++;
+
+
+
 			swap(arr, left, right);
 		}
-		
-		// 基准值 放到指定位置
- 		swap(arr, base, right);
- 		
- 		// 递归
- 		quickSort(arr, base, left-1);
- 		quickSort(arr, left+1, arr.length-1);
+
+		swap(arr, BASE, left);
+
+		quickSort(arr, BASE, left-1);
+		quickSort(arr, left+1, RIGHT);
 	}
 	
 	private static void swap(int[] arr, int left, int right) {
