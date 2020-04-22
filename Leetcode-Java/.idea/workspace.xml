@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffae7281-9081-4e83-9bc8-b50e81689ef4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/ITraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/ITraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/impl/Traversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/impl/Traversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/ITraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/ITraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/impl/Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/impl/Traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/multithreading/PrintABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/multithreading/PrintABC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +60,34 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.PrintABC">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="top.elgong.NIO.ChatRoom" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Leetcode-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.elgong.testOnline.Main1" />
+      <module name="Leetcode-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.elgong.testOnline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintABC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.elgong.multithreading.PrintABC" />
       <module name="Leetcode-Java" />
@@ -73,38 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.elgong.binaryTree.Test" />
-      <module name="Leetcode-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.elgong.binaryTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.elgong.multithreading.Test" />
+      <option name="MAIN_CLASS_NAME" value="top.elgong.cast.Test" />
       <module name="Leetcode-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.elgong.multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.elgong.test" />
-      <module name="Leetcode-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.elgong.*" />
+          <option name="PATTERN" value="top.elgong.cast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintABC" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.PrintNumberOneByOne" />
+        <item itemvalue="Application.PrintABC" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +183,17 @@
       <workItem from="1584063371420" duration="1223000" />
       <workItem from="1584178532178" duration="777000" />
       <workItem from="1584433409398" duration="2620000" />
-      <workItem from="1584545350296" duration="14027000" />
+      <workItem from="1584545350296" duration="27099000" />
+      <workItem from="1584839067856" duration="40679000" />
+      <workItem from="1585202766383" duration="39000" />
+      <workItem from="1585220543241" duration="3605000" />
+      <workItem from="1585277961592" duration="54000" />
+      <workItem from="1585391850846" duration="5437000" />
+      <workItem from="1585478225075" duration="5615000" />
+      <workItem from="1585663188478" duration="612000" />
+      <workItem from="1586751396906" duration="9753000" />
+      <workItem from="1587369255108" duration="9698000" />
+      <workItem from="1587524014509" duration="3486000" />
     </task>
     <servers />
   </component>
@@ -184,48 +209,52 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1580791903206" />
-    <state x="613" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1584607167998">
+    <state x="613" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1587524371693">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580802710741" />
-    <state x="613" y="128" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864@62.0.1474.864" timestamp="1584607167998" />
+    <state x="613" y="128" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864@62.0.1474.864" timestamp="1587524371693" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580792862283">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580792862283" />
-    <state width="1431" height="140" key="GridCell.Tab.0.bottom" timestamp="1584608096226">
+    <state width="1431" height="220" key="GridCell.Tab.0.bottom" timestamp="1587526150196">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="140" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1584608096226" />
-    <state width="1431" height="140" key="GridCell.Tab.0.center" timestamp="1584608096225">
+    <state width="1431" height="220" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587526150196" />
+    <state width="1431" height="220" key="GridCell.Tab.0.center" timestamp="1587526150196">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="140" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1584608096225" />
-    <state width="1431" height="140" key="GridCell.Tab.0.left" timestamp="1584608096225">
+    <state width="1431" height="220" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1587526150196" />
+    <state width="1431" height="220" key="GridCell.Tab.0.left" timestamp="1587526150196">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="140" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1584608096225" />
-    <state width="1431" height="140" key="GridCell.Tab.0.right" timestamp="1584608096225">
+    <state width="1431" height="220" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1587526150196" />
+    <state width="1431" height="220" key="GridCell.Tab.0.right" timestamp="1587526150196">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="140" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1584608096225" />
-    <state x="301" y="75" key="SettingsEditor" timestamp="1584010174473">
+    <state width="1431" height="220" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1587526150196" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1586762597448">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="301" y="75" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1584010174473" />
-    <state x="493" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1584063373288">
+    <state x="301" y="75" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1586762597448" />
+    <state x="493" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1585664391566">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580957494079" />
-    <state x="493" y="249" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1584063373288" />
+    <state x="493" y="249" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1585664391566" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1580885984948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580885984948" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1584963050584">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1584963050584" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

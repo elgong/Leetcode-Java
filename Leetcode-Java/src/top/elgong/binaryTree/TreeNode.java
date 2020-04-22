@@ -3,14 +3,14 @@ package top.elgong.binaryTree;
 /**
  *  二叉树节点
  */
-public class Node {
+public class TreeNode {
 
 	// 为了方便，直接public
 	public int value;
-	public Node left = null;
-	public Node right = null;
+	public TreeNode left = null;
+	public TreeNode right = null;
 
-	Node(int value){
+	TreeNode(int value){
 		this.value = value;
 	}
 }

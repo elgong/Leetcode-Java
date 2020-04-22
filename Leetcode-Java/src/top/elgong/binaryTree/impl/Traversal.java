@@ -1,7 +1,7 @@
 package top.elgong.binaryTree.impl;
 
 import top.elgong.binaryTree.ITraversal;
-import top.elgong.binaryTree.Node;
+import top.elgong.binaryTree.TreeNode;
 
 import java.util.*;
 
@@ -12,7 +12,7 @@ public class Traversal implements ITraversal {
      * @param root
      */
     @Override
-    public void preOrderByRecursion(Node root) {
+    public void preOrderByRecursion(TreeNode root) {
 
         if(root != null){
             System.out.print(root.value + " ");
@@ -30,12 +30,12 @@ public class Traversal implements ITraversal {
      * @param root
      */
     @Override
-    public void preOrderByIteration(Node root) {
+    public void preOrderByIteration(TreeNode root) {
         if(root == null){
             return ;
         }
 
-        Stack<Node> stack = new Stack<>();
+        Stack<TreeNode> stack = new Stack<>();
 
         // 模拟堆栈
         while(root != null || !stack.isEmpty()){
@@ -70,7 +70,7 @@ public class Traversal implements ITraversal {
     }
 
     @Override
-    public void midOrderByRecursion(Node root) {
+    public void midOrderByRecursion(TreeNode root) {
 
         if(root != null){
             midOrderByRecursion(root.left);
@@ -80,13 +80,13 @@ public class Traversal implements ITraversal {
     }
 
     @Override
-    public void midOrderByIteration(Node root) {
+    public void midOrderByIteration(TreeNode root) {
 
         if(root == null){
             return ;
         }
 
-        Stack<Node> stack = new Stack<>();
+        Stack<TreeNode> stack = new Stack<>();
 
         while(root != null || !stack.isEmpty()){
 
@@ -104,7 +104,7 @@ public class Traversal implements ITraversal {
     }
 
     @Override
-    public void postOrderByRecursion(Node root) {
+    public void postOrderByRecursion(TreeNode root) {
         if(root != null){
             postOrderByRecursion(root.left);
 
@@ -115,7 +115,7 @@ public class Traversal implements ITraversal {
     }
 
     @Override
-    public void postOrderByIteration(Node root) {
+    public void postOrderByIteration(TreeNode root) {
         /**
          *  思路：
          *      同前序遍历一致
@@ -126,10 +126,10 @@ public class Traversal implements ITraversal {
         if(root == null){
             return ;
         }
-        Stack<Node> s = new Stack<>();
+        Stack<TreeNode> s = new Stack<>();
 
         // 记住上一次的节点
-        Node last = null;
+        TreeNode last = null;
         while(root != null || !s.isEmpty()){
 
             // 遍历处所有的左节点
@@ -139,7 +139,7 @@ public class Traversal implements ITraversal {
             }
 
             // 不能提前弹出 root
-            Node tmp = s.peek();
+            TreeNode tmp = s.peek();
             if(!s.isEmpty()){
                 // 如果没有右节点或者上次已经处理过右节点， 则处理当前栈顶
                 if(tmp.right == null || last == tmp.right){
@@ -157,13 +157,13 @@ public class Traversal implements ITraversal {
     }
 
     @Override
-    public void postOrderByIteration_pre(Node root) {
+    public void postOrderByIteration_pre(TreeNode root) {
             if(root == null){
                 return ;
             }
 
             LinkedList<Integer> res = new LinkedList<>();
-            Stack<Node> s = new Stack<>();
+            Stack<TreeNode> s = new Stack<>();
 
             while(root != null || !s.isEmpty()){
 
@@ -188,7 +188,7 @@ public class Traversal implements ITraversal {
     }
 
     @Override
-    public void layerOrderByRecursion(Node root) {
+    public void layerOrderByRecursion(TreeNode root) {
         /**
          *  层序遍历的递归版本
          *  借助List和层深度，记住每个层的元素
@@ -208,7 +208,7 @@ public class Traversal implements ITraversal {
             }
         }
     }
-    public static void helper(Node root, List<List<Integer>> res, int depth ){
+    public static void helper(TreeNode root, List<List<Integer>> res, int depth ){
         // 如果层深度> 当前最大层深度，则创建下一层的list
         if(depth >= res.size()){
             res.add(new ArrayList<>());
@@ -229,7 +229,7 @@ public class Traversal implements ITraversal {
     }
 
     @Override
-    public void layerOrderByIteration(Node root) {
+    public void layerOrderByIteration(TreeNode root) {
         /**
          *  层遍历- 通过迭代的方法
          *
@@ -243,7 +243,7 @@ public class Traversal implements ITraversal {
         }
         
         int depth = 0;
-        Deque<Node> deq = new LinkedList<>();
+        Deque<TreeNode> deq = new LinkedList<>();
 
         deq.add(root);
         while(!deq.isEmpty()){
@@ -253,7 +253,7 @@ public class Traversal implements ITraversal {
             System.out.print("layer" + depth + " ");
 
             for(int i=0; i<layer_size; i++){
-                Node tmp = deq.poll();
+                TreeNode tmp = deq.poll();
                 System.out.print(tmp.value + " ");
                 if(tmp.left != null){
                     deq.add(tmp.left);

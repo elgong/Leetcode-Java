@@ -13,14 +13,14 @@ public class Test {
 	public static void main(String[] args) {
 		
 		//  建立树结构
-		Node n1 = new Node(10);
-		Node n2 = new Node(6);
-		Node n3 = new Node(14);
-		Node n4 = new Node(4);
-		Node n5 = new Node(8);
-		Node n6 = new Node(12);
-		Node n7 = new Node(16);
-		Node n8 = new Node(17);
+		TreeNode n1 = new TreeNode(10);
+		TreeNode n2 = new TreeNode(6);
+		TreeNode n3 = new TreeNode(14);
+		TreeNode n4 = new TreeNode(4);
+		TreeNode n5 = new TreeNode(8);
+		TreeNode n6 = new TreeNode(12);
+		TreeNode n7 = new TreeNode(16);
+		TreeNode n8 = new TreeNode(17);
 		
 		n1.left = n2;
 		n1.right = n3;
