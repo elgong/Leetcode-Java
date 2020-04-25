@@ -1,5 +1,7 @@
 package top.elgong.cast;
 
+import java.util.HashMap;
+
 public class Test {
 
     public static void main(String[] args) {
@@ -22,7 +24,7 @@ public class Test {
         System.out.println(s.Str);  // 打印   son  str
         System.out.println(s.strOnlySon);   // 打印   strOnlySon
 
-        s.say();  // 打印  son say : 
-
+        s.say();  // 打印  son say :
+        HashMap
     }
 }

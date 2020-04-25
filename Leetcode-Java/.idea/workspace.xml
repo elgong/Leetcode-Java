@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffae7281-9081-4e83-9bc8-b50e81689ef4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/ITraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/ITraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/impl/Traversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/binaryTree/impl/Traversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC$PrintC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/multithreading/PrintABC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/ITraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/ITraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/elgong/binaryTree/impl/Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/binaryTree/impl/Traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/elgong/multithreading/PrintABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/multithreading/PrintABC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/cast/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/cast/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +177,8 @@
       <workItem from="1585663188478" duration="612000" />
       <workItem from="1586751396906" duration="9753000" />
       <workItem from="1587369255108" duration="9698000" />
-      <workItem from="1587524014509" duration="3486000" />
+      <workItem from="1587524014509" duration="5998000" />
+      <workItem from="1587609851828" duration="30000" />
     </task>
     <servers />
   </component>
@@ -218,35 +203,35 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580792862283" />
-    <state width="1431" height="220" key="GridCell.Tab.0.bottom" timestamp="1587526150196">
+    <state width="1431" height="57" key="GridCell.Tab.0.bottom" timestamp="1587548739247">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="220" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587526150196" />
-    <state width="1431" height="220" key="GridCell.Tab.0.center" timestamp="1587526150196">
+    <state width="1431" height="57" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587548739247" />
+    <state width="1431" height="57" key="GridCell.Tab.0.center" timestamp="1587548739246">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="220" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1587526150196" />
-    <state width="1431" height="220" key="GridCell.Tab.0.left" timestamp="1587526150196">
+    <state width="1431" height="57" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1587548739246" />
+    <state width="1431" height="57" key="GridCell.Tab.0.left" timestamp="1587548739246">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="220" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1587526150196" />
-    <state width="1431" height="220" key="GridCell.Tab.0.right" timestamp="1587526150196">
+    <state width="1431" height="57" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1587548739246" />
+    <state width="1431" height="57" key="GridCell.Tab.0.right" timestamp="1587548739246">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="220" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1587526150196" />
+    <state width="1431" height="57" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1587548739246" />
     <state x="301" y="75" key="SettingsEditor" timestamp="1586762597448">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="301" y="75" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1586762597448" />
-    <state x="493" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1585664391566">
+    <state x="493" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1587609850997">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580957494079" />
-    <state x="493" y="249" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1585664391566" />
+    <state x="493" y="249" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1587609850997" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1580885984948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
