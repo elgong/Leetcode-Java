@@ -18,6 +18,7 @@
       <list>
         <option value="Interface" />
         <option value="Singleton" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -36,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -51,16 +53,22 @@
       <recent name="top.elgong.NIO.ChatRoom" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.elgong.testOnline.Main2" />
       <module name="Leetcode-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.elgong.testOnline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.elgong.testOnline.Main1" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.elgong.testOnline.Main3" />
       <module name="Leetcode-Java" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.PrintNumberOneByOne" />
         <item itemvalue="Application.PrintABC" />
-        <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +187,7 @@
       <workItem from="1587369255108" duration="9698000" />
       <workItem from="1587524014509" duration="5998000" />
       <workItem from="1587609851828" duration="30000" />
+      <workItem from="1588151044280" duration="11326000" />
     </task>
     <servers />
   </component>
@@ -203,26 +212,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580792862283" />
-    <state width="1431" height="57" key="GridCell.Tab.0.bottom" timestamp="1587548739247">
+    <state width="1431" height="277" key="GridCell.Tab.0.bottom" timestamp="1588322788262">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="57" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587548739247" />
-    <state width="1431" height="57" key="GridCell.Tab.0.center" timestamp="1587548739246">
+    <state width="1431" height="277" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588322788262" />
+    <state width="1431" height="277" key="GridCell.Tab.0.center" timestamp="1588322788262">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="57" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1587548739246" />
-    <state width="1431" height="57" key="GridCell.Tab.0.left" timestamp="1587548739246">
+    <state width="1431" height="277" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1588322788262" />
+    <state width="1431" height="277" key="GridCell.Tab.0.left" timestamp="1588322788262">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="57" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1587548739246" />
-    <state width="1431" height="57" key="GridCell.Tab.0.right" timestamp="1587548739246">
+    <state width="1431" height="277" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1588322788262" />
+    <state width="1431" height="277" key="GridCell.Tab.0.right" timestamp="1588322788262">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="57" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1587548739246" />
+    <state width="1431" height="277" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1588322788262" />
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom" timestamp="1588322788262">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588322788262" />
+    <state width="1431" height="277" key="GridCell.Tab.1.center" timestamp="1588322788262">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1588322788262" />
+    <state width="1431" height="277" key="GridCell.Tab.1.left" timestamp="1588322788262">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1588322788262" />
+    <state width="1431" height="277" key="GridCell.Tab.1.right" timestamp="1588322788262">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="277" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1588322788262" />
     <state x="301" y="75" key="SettingsEditor" timestamp="1586762597448">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -253,6 +278,11 @@
           <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
           <line>597</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/top/elgong/testOnline/Main3.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

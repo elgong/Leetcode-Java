@@ -25,6 +25,5 @@ public class Test {
         System.out.println(s.strOnlySon);   // 打印   strOnlySon
 
         s.say();  // 打印  son say :
-        HashMap
     }
 }
