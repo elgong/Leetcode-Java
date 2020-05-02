@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.7.25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/top/elgong/jedis/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/top/elgong/jedis/log4j-1.2.14.jar!/" />
+      <root url="file://$PROJECT_DIR$/src/top/elgong/jedis" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/top/elgong/jedis" recursive="false" />
+  </library>
+</component>
