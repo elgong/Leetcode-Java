@@ -5,11 +5,25 @@ public class Sqrt {
 
     public static void main(String[] args) {
 
-        System.out.println(sqrt(5, 0.0001));
+        long s = System.currentTimeMillis();
+        System.out.println(sqrtByBinary(500, 0.0001));
+
+        System.out.println(System.currentTimeMillis() - s);
+        s = System.currentTimeMillis();
+
+
+        System.out.println(sqrtByNIUDUN(500, 0.0001));
+        System.out.println(System.currentTimeMillis() - s);
     }
 
-    // 二分法
-    public static double sqrt(int num, double precision){
+    /**
+     *  二分法求 sqrt
+     *
+     * @param num  ： 被开方数
+     * @param precision ： 精度
+     * @return ： 结果
+     */
+    public static double sqrtByBinary(int num, double precision){
 
         double min = 0.0;  // 下线
         double max = num;  // 上限
@@ -31,6 +45,30 @@ public class Sqrt {
         }
 
         return mid;
+    }
+
+
+    /**
+     *  牛顿迭代法 求解 sqrt
+     *
+     *  公式： target -= (target * target - x) / (2 * target)
+     * @param num
+     * @param precision
+     * @return
+     */
+    public static double sqrtByNIUDUN(int num, double precision){
+
+        double target = num;  // 目标初始化为num
+
+        double err = num; // 迭代前后的误差
+        while (err > precision){
+
+            err = target;
+            target -= (target * target - num) / (2 * target);
+            err = Math.abs(target - err);
+        }
+
+        return target;
 
     }
 }
