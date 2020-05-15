@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ffae7281-9081-4e83-9bc8-b50e81689ef4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top/elgong/algorithm/math/Sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/algorithm/math/Sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/algorithm/math/Sqrt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-Java/top/elgong/algorithm/math/Sqrt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,22 +62,9 @@
       <recent name="top.elgong.NIO.ChatRoom" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sqrt">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.elgong.testOnline.Main2" />
-      <module name="Leetcode-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.elgong.testOnline.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.elgong.testOnline.Main3" />
       <module name="Leetcode-Java" />
       <extension name="coverage">
         <pattern>
@@ -126,13 +115,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Leetcode-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Sqrt" />
         <item itemvalue="Application.QuickPow$Test" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +192,8 @@
       <workItem from="1587609851828" duration="30000" />
       <workItem from="1588151044280" duration="11326000" />
       <workItem from="1588415135071" duration="14588000" />
-      <workItem from="1589001376092" duration="596000" />
+      <workItem from="1589001376092" duration="1891000" />
+      <workItem from="1589196725761" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="快速幂运算">
       <created>1588552992996</created>
@@ -262,42 +259,42 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="580" y="188" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1588424482752" />
-    <state width="1431" height="171" key="GridCell.Tab.0.bottom" timestamp="1589001954103">
+    <state width="1431" height="277" key="GridCell.Tab.0.bottom" timestamp="1589013515203">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="171" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1589001954103" />
-    <state width="1431" height="171" key="GridCell.Tab.0.center" timestamp="1589001954103">
+    <state width="1431" height="277" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1589013515203" />
+    <state width="1431" height="277" key="GridCell.Tab.0.center" timestamp="1589013515203">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="171" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1589001954103" />
-    <state width="1431" height="171" key="GridCell.Tab.0.left" timestamp="1589001954103">
+    <state width="1431" height="277" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1589013515203" />
+    <state width="1431" height="277" key="GridCell.Tab.0.left" timestamp="1589013515203">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="171" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1589001954103" />
-    <state width="1431" height="171" key="GridCell.Tab.0.right" timestamp="1589001954103">
+    <state width="1431" height="277" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1589013515203" />
+    <state width="1431" height="277" key="GridCell.Tab.0.right" timestamp="1589013515203">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580887309781" />
-    <state width="1431" height="171" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1589001954103" />
-    <state width="1431" height="277" key="GridCell.Tab.1.bottom" timestamp="1588558191455">
+    <state width="1431" height="277" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1589013515203" />
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom" timestamp="1589013515203">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="277" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588558191455" />
-    <state width="1431" height="277" key="GridCell.Tab.1.center" timestamp="1588558191455">
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1589013515203" />
+    <state width="1431" height="277" key="GridCell.Tab.1.center" timestamp="1589013515203">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="277" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1588558191455" />
-    <state width="1431" height="277" key="GridCell.Tab.1.left" timestamp="1588558191455">
+    <state width="1431" height="277" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1589013515203" />
+    <state width="1431" height="277" key="GridCell.Tab.1.left" timestamp="1589013515203">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="277" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1588558191455" />
-    <state width="1431" height="277" key="GridCell.Tab.1.right" timestamp="1588558191455">
+    <state width="1431" height="277" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1589013515203" />
+    <state width="1431" height="277" key="GridCell.Tab.1.right" timestamp="1589013515203">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="277" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1588558191455" />
+    <state width="1431" height="277" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1589013515203" />
     <state x="301" y="15" key="SettingsEditor" timestamp="1588424485884">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -306,11 +303,11 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="392" y="166" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1588553031153" />
-    <state x="493" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1587609850997">
+    <state x="493" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1589196726162">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580957494079" />
-    <state x="493" y="249" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1587609850997" />
+    <state x="493" y="249" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1589196726162" />
     <state x="538" y="334" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588415660154">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
@@ -349,6 +346,26 @@
           <url>file://$PROJECT_DIR$/src/top/elgong/testOnline/Main3.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
