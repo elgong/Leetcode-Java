@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ffae7281-9081-4e83-9bc8-b50e81689ef4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-Java/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/elgong/myLinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/elgong/myImpl/myLinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +216,7 @@
       <workItem from="1590842243354" duration="14456000" />
       <workItem from="1591021180250" duration="719000" />
       <workItem from="1591705269572" duration="72000" />
-      <workItem from="1592111291833" duration="5374000" />
+      <workItem from="1592111291833" duration="6819000" />
     </task>
     <task id="LOCAL-00001" summary="快速幂运算">
       <created>1588552992996</created>
